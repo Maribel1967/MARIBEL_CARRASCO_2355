@@ -1,0 +1,2 @@
+Resumen de POO
+Concepto 1.- Es un paradigma que usa sus propios datos y objetos
